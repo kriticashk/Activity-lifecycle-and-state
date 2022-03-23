@@ -1,7 +1,7 @@
 # Activity-lifecycle-and-state
 tasks challenges homework
 
-acticity lifecycle<br/>
+Activity lifecycle<br/>
 <img src="screenshots/activitylifecycle.gif" width="300px" height="600px">
 <br/>
 Lifecycle Homework<br/>
@@ -12,5 +12,5 @@ Lifecycle Homework<br/>
 layout challenge<br/>
 <img src="screenshots/lifecycle_challenge.gif" width="300px" height="600px">
 <br/>
-Logcat Activity of lifecycle
+Logcat Activity of lifecycle<br/>
 <img src="screenshots/logcat.png" width="600px" height="300px">
