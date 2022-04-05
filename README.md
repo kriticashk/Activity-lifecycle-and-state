@@ -1,18 +1,29 @@
 # Activity-lifecycle-and-state
 tasks challenges homework
 
-Activity lifecycle<br/>
+<b>Activity lifecycle</b><br/>
+
+<p>The Activity lifecycle and state app looks and behaves roughly the same as it did in the last codelab. It contains two Activity implementations and gives the user the ability to send between them</p><br/>
+
 <img src="screenshots/activitylifecycle.gif" width="300px" height="600px">
 <br/>
-Lifecycle Homework<br/>
+
+<b>Lifecycle Homework</b><br/>
+<p> An app with a layout that holds a counter TextView, a Button to increment the counter, and an EditText Implement onSaveInstanceState() to save the current state of the app.</p><br/>
+
 <img src="screenshots/lifecycle_homework.gif" width="300px" height="600px">
 <br/>
 <img src="screenshots/lifecycleHomework.png" width="300px" height="600px">
 <br/>
-layout challenge<br/>
+
+<b>layout challenge</b><br/>
+<p>A simple shopping-list app with a main activity for the list the user is building, and a second activity for a list of common shopping items. 
+an Intent to pass information from one Activity to another. Current state of the shopping list is saved when the user rotates the device</p><br/>
+
 <img src="screenshots/lifecycle_challenge.gif" width="300px" height="600px">
 <br/>
-Logcat Activity of lifecycle<br/>
+
+<b>Logcat Activity of lifecycle</b><br/>
 <img src="screenshots/logcat.png" width="600px" height="300px">
 
 <b>Question 1</b><br/>
